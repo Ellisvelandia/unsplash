@@ -69,7 +69,7 @@ input:focus {
   color: orange;
 }
 
-.grid {
+#grid {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
